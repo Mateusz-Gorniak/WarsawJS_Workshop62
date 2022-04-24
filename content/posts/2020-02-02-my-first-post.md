@@ -1,16 +1,15 @@
 ---
-title: 'Jacek nieee!'
+title: Jacek nieee!
 description: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-date: '2020-02-02'
-modified_date: '2020-02-02'
+date: 2020-02-02
+modified_date: 2020-02-02
 image: /assets/images/posts/random-img.jpg
 ---
-
 Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 
 Example with image:
 
-![Error](@@baseUrl@@/assets/images/posts/error.png)
+![Error](img/zrzut-ekranu-2021-07-22-120605.png)
 
 Example code block:
 
