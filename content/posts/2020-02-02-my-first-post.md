@@ -11,7 +11,7 @@ Jacek placek Damianek i Barek
 
 Example with image:
 
-![Error](img/zrzut-ekranu-2021-07-22-120605.png)
+![Error]()
 
 Example code block:
 
